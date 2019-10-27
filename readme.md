@@ -9,4 +9,5 @@
 - It has two dashboard one having radar chart for comparing any two soccer player from the datasets and other one is geo-visualization, where you can see in world from where which kind of player mostly produce.
 - Dataset is very huge with having data like player's nationality, age, favorite foot, position, club etc. It needed lots of cleaning and data preprocessing.
 - I had lots of interactive filter which helps to find which country has which kind of players. It says lot of every country's football culture.
+- You can see https://drive.google.com/open?id=1uOe8MagAlkzH-n3bK9YznDTdpEhPtvh7 video for more understanding. 
 ---
